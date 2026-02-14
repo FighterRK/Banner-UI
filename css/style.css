@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Nunito";
-  src: url("../fonts/Nunito/Nunito-VariableFont_wght.ttf");
+  src: url("../fonts/Nunito/Nunito-VariableFont_wght.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "ABeeZee";
-  src: url("../fonts/abeezee/ttf/abeezee-latin-400-normal.ttf");
+  src: url("../fonts/abeezee/ttf/abeezee-latin-400-normal.ttf") format("truetype");
 }
 
 * {
